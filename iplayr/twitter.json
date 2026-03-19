@@ -1,0 +1,58 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"twitter-ero-video-ranking",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "每日",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN?sort=favorite&page={pg}"
+		},
+	{
+			"title": "每周",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN/weekly",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN/weekly?sort=favorite&page={pg}"
+		},
+	{
+			"title": "每月",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN/monthly",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN/monthly?sort=favorite&page={pg}"
+		},
+	{
+			"title": "所有",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN/all",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN/all?sort=favorite&page={pg}"
+		}
+
+	],    
+"vod_node":"//div[@class='bg-white rounded-lg shadow-md overflow-hidden mb-4']",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//img[contains(@alt, '閲覧数')]",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"https://twitter-ero-video-ranking.com{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://twitter-ero-video-ranking.com{id}",
+"play_regex":"InVybCI6IihbXiJdK20zdTgp",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://jav.sb/vod/search.html?wd={wd}",
+"search_url_other_page":"https://jav.sb/vod/search/page/{pg}/wd/{wd}.html",
+"search_vod_node":"//div[contains(@class, 'thumbnail')]",
+"search_vod_title":"//a[contains(@class, 'text-secondary')]",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"https://jav.sb{id}",
+"search_vod_link_id":"//a[contains(@class, 'text-secondary')]/@href",
+"search_vod_link_url":"https://jav.sb{id}"
+}
