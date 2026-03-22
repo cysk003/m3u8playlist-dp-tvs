@@ -33,7 +33,7 @@
 		}
 	],    
 
-"vod_node":"//ul[@class='video-list']//li",
+"vod_node":"//ul[@class='video_list']//li",
 "vod_info":"//",
 "vod_score":"//div[@class='score visbile']",
 "vod_title":"//h3",
