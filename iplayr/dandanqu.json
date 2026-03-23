@@ -47,7 +47,7 @@
 "playlist_group_node":"//div[@class='module-play-list']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"https://www.dandanqu.cc/c{id}",
+"playlist_link_url":"https://www.dandanqu.cc/{id}",
 "playlist_info":"//div[@class='module-info-introduction-content']",
 "search_flag":true,
 "search_url_first_page":"https://www.dandanqu.cc/vodsearch/-------------.html?wd={wd}",
