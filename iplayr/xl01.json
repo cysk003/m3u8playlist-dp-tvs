@@ -7,7 +7,7 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "剧集",
-			"url0": "https://www.xlys02.com/all?type=1",
+			"url0": "https://www.xlys02.com/s/all?type=1",
 			"url1": "https://www.xlys02.com/s/all/{pg}?type=1"
 		},
 		{
@@ -29,7 +29,7 @@
 "play_regex":"",
 "play_url":"",
 "playlist_flag":true,
-"playlist_group_node":"//div[@id='play-list']//div[@class='d-flex']",
+"playlist_group_node":"//div[@class='d-flex']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"www.xlys02.com{id}",
